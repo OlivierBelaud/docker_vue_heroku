@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "git-commit-msg-linter": "^2.6.0"
   }
 }
